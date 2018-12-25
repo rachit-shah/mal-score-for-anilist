@@ -1,5 +1,5 @@
 # mal-score-for-anilist
-Userscript to adds MyAnimeList link and score to AniList anime and manga pages
+Userscript to add MyAnimeList link and score to AniList anime and manga pages
 
 Though I have shifted to AniList from MAL, there are often times I refer to the MAL score too in deciding whether I want to watch the anime or not. This script adds the MAL score and the link to the MAL page in the sidebar for that particular anime/manga's page.
 
